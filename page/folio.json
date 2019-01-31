@@ -1,0 +1,21 @@
+{"freelance":true,
+  "folio":[{
+    "titulo":"freeCodeCamp/Product Landing Page",
+    "desc":"Ejercicio de #freeCodeCamp",
+    "lenguaje":"Html",
+    "link":"https://gtr487.github.io/freeCodeCampProjects/responsiveWebDesignProjects/productLandingPage/productLandingPage.html",
+    "categoria":"codecamp"
+    },{
+    "titulo":"freeCodeCamp/Survey Form",
+    "desc":"Ejercicio de #freeCodeCamp",
+    "lenguaje":"Html",
+    "link":"https://gtr487.github.io/freeCodeCampProjects/responsiveWebDesignProjects/surveyForm/surveyForm.html",
+    "categoria":"codecamp"
+    },{
+    "titulo":"freeCodeCamp/Tribute Page",
+    "desc":"Ejercicio de #freeCodeCamp",
+    "lenguaje":"Html",
+    "link":"https://gtr487.github.io/freeCodeCampProjects/responsiveWebDesignProjects/tributePage/tributePage.html",
+    "categoria":"codecamp"
+    }]
+}
