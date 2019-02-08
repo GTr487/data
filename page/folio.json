@@ -17,5 +17,11 @@
     "lenguaje":"Html",
     "link":"https://gtr487.github.io/freeCodeCampProjects/responsiveWebDesignProjects/tributePage/tributePage.html",
     "categoria":"codecamp"
+    },{
+    "titulo":"freeCodeCamp/Documentation Page",
+    "desc":"Ejercicio de #freeCodeCamp",
+    "lenguaje":"Html",
+    "link":"https://gtr487.github.io/freeCodeCampProjects/responsiveWebDesignProjects/documentationPage/documentationPage.html",
+    "categoria":"codecamp"
     }]
 }
